@@ -1,0 +1,84 @@
+{
+  "dog":[
+{
+  "id":1,
+  "dog" :"German shepherd",
+  "dog-history":"The German Shepherd or Alsatian is a German breed of working dog of medium to large size. The breed was developed by Max von Stephanitz using various traditional German herding dogs from 1899. It was originally bred as a herding dog, for herding sheep.",
+  "dog-purchasePrice":"35000",
+  "dog-maintenanceCost":"10000",
+  "dog-image_url":"https://www.purina-arabia.com/find-a-pet/dog-breeds/german-shepherd"
+},
+{
+  "id":2,
+  "dog":"Maltese",
+  "dog-history": "Maltese dog refers both to an ancient variety of dwarf canine generally associated with the island of Malta, and to a modern breed of dog in the toy group. The contemporary variety is genetically related to the Bichon, Bolognese, and Havanese breeds.",
+  "dog-purchasePrice": "15000",
+  "dog-maintenanceCost":"5000",
+  "dog-image_url": "http://www.vetstreet.com/dogs/maltese"
+},
+
+{
+  "id":3,
+  "dog" :"Rottweiler",
+  "dog-history":"The Rottweiler is a breed of domestic dog, regarded as medium-to-large or large. The dogs were known in German as Rottweiler Metzgerhund, meaning Rottweil butchers' dogs, because their main use was to herd livestock and pull carts laden with butchered meat to market.",
+  "dog-purchasePrice":"45000",
+  "dog-maintenanceCost":"10000",
+  "dog-image_url": "https://frostfutter-perleberg.de/blog/rottweiler/"
+},
+{
+  "id":4,
+  "dog" :"spitz",
+  "dog-history":"Spitz is a type of domestic dog characterized by long, thick, and often white fur, and pointed ears and muzzles. The tail often curls over the dog's back or droops. Smaller breeds resemble foxes, while larger breeds resemble wolves.",
+  "dog-purchasePrice":"15000",
+  "dog-maintenanceCost":"5000",
+  "dog-image_url":"https://www.diehundezeitung.com/deutscher-spitz-der-kecke-kleine-loewe/"
+},
+{
+  "id":5,
+  "dog":"Caucasian shepherd",
+  "dog-history":"The Caucasian Shepherd Dog or Caucasian Ovcharka is a large livestock guardian dog native to the countries of the Caucasus region, notably Georgia, Armenia, Azerbaijan, and Dagestan.",
+  "dog-purchasePrice":"7000",
+  "dog-maintenanceCost":"20000",
+  "dog-image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Owtscharka_Dschinie.JPG/220px-Owtscharka_Dschinie.JPG"
+},
+{
+  "id":6,
+  "dog":"Saint bernard",
+  "dog-history":"The earliest written records of the St. Bernard are from monks at the Great St Bernard Hospice at the Great St Bernard Pass in 1707, with paintings and drawings of the dog dating even earlier.Early British accounts of the breed described the breed as the Alpine Spaniel",
+  "dog-purchasePrice":"100000",
+  "dog-maintenanceCost":"20000",
+  "dog-image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/St_Bernard_Dog_001.jpg/400px-St_Bernard_Dog_001.jpg"
+},
+{
+  "id":7,
+  "dog":"Kenyan Local",
+  "dog-history":"Mix of many breeds often found in streets or in the rural areas of kenya",
+  "dog-purchasePrice":"1000",
+  "dog-maintenanceCost":"20000",
+  "dog-image_url": "https://www.k9magazine.com/a-dogs-life-in-kenya/"
+},
+{
+  "id":8,
+  "dog" :"Great Dane",
+  "dog-history":"These dogs were bred in the courts of German nobility, independent of the English methods, since the start of the 17th century.",
+  "dog-purchasePrice":"100000",
+  "dog-maintenanceCost":"20000",
+  "dog-image_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Duffy_the_brindle_Great_Dane.JPG/220px-Duffy_the_brindle_Great_Dane.JPG"
+},
+{
+  "id":9,
+  "dog":"Boerboel",
+  "dog-history":"The Boerboel descends from an old Colonial cross-breed of mastiffs and bulldogs used both as a guard dog on remote farms and estates and for big game hunting, and known as the Boer Dog or Boer Hunting Dog",
+  "dog-purchasePrice":"45000",
+  "dog-maintenanceCost":"15000",
+  "dog-image_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Boerboel_wiki.jpg/220px-Boerboel_wiki.jpg"
+},
+{
+  "id":10,
+  "dog":"Chihuahua",
+  "dog-history":"Chihuahuas remained a rarity until the early 20th century, and the American Kennel Club did not register a Chihuahua until 1904.",
+  "dog-purchasePrice":"20000",
+  "dog-maintenanceCost":"5000",
+  "dog-image_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Standard_razza_chihuahua.jpg/200px-Standard_razza_chihuahua.jpg"
+}]
+}             

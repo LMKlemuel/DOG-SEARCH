@@ -1,0 +1,80 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: "Georgia", serif; ;
+  font-size: 14px;
+  color: #000000;
+}
+
+header {
+  float: left;
+  width: 225px;
+  height: auto;
+  border-right: solid #000000 1px;
+  border-bottom: solid #000000 1px;
+  border-radius: 0 0 6px 0;
+  padding: 10px;
+  margin-right: 10px;
+}
+
+h1 {
+  font-family: "Gill Sans", sans-serif;
+  font-size: 52px;
+  color: #3493d5;
+  margin: 10px 0;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+nav ul {
+  margin-left: 15px;
+}
+
+nav ul li {
+  padding: 5px;
+  cursor: pointer;
+}
+
+nav ul li:hover {
+  background-color: #082bf4;
+  color: #fff;
+}
+
+main {
+  float: left;
+  margin-left: 50px;
+  width: 600px;
+}
+
+
+.dog-details h2 {
+  font-size: 32px;
+  text-align: center;
+}
+
+.dog-details h3 {
+  font-size: 32px;
+  text-align: center;
+}
+
+.dog-details h4 {
+  font-size: 32px;
+  text-align: center;
+}
+
+.dog-details h5 {
+  font-size: 32px;
+  text-align: center;
+}
+
+.dog-details img {
+  display: block;
+  height: 200px;
+  margin: 0 auto 25px auto;
+}
